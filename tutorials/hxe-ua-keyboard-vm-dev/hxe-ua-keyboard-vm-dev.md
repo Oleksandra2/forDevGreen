@@ -26,7 +26,7 @@ ADev Green Validation form with parser v2 text for the intro
 
 Open your hypervisor application.
 
-Power on (or click *Play* on) your SAP HANA 2.0, express edition VM.
+Power on (or click *Play* on) your SAP HANA 2.0, express###  edition VM.
 
 ![hxe2_vm_start_0](hxe2_vm_start_0.png)
 
@@ -34,7 +34,7 @@ Power on (or click *Play* on) your SAP HANA 2.0, express edition VM.
 ### Introduce Change the keyboard layout if your laptop doesn't use an English (US) keyboard
 
 
-The system prompts you to either change the VM keyboard, or accept the default English (US) QWERTY keyboard. Enter `Y` to change the keyboard or `N` to use the default.
+The system prompts you to either change the VM keyboard, or accept the default English (US) QWERTY keyboard. Enter `Y` to change the keyboard or `N` to use the default.(### test)
 
 > Note:
 > Having difficulty entering text in your virtual machine in `VMWare`? Press ` CTRL G ` to switch the focus from your host machine to the VM.
