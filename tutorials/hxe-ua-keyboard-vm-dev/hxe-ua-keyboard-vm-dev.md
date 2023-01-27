@@ -5,7 +5,7 @@ tags: [ tutorial>beginner, products>sap-hana\,-express-edition ]
 time: 5
 ---
 
-# Introduction to Set Keyboard and Time Zone ADev Green
+# Introduction to Set Keyboard and Time Zone ADev Green 2
 <!-- description --> The VM defaults to an English (US) QWERTY keyboard, and the UTC time zone. When prompted, change the keyboard layout and time zone to match your location, or accept the defaults.
 
 <!-- loiod0775daa77ca4aaea29ea74b3e2e2ac1 -->
@@ -17,6 +17,7 @@ time: 5
 You'll learn how to start the VM, change the VM default keyboard layout, and change the default time zone.
 
 ## Intro
+
 ADev Green Validation form with parser v2 text for the intro
 
 
