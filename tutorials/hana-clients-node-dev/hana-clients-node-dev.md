@@ -1,7 +1,6 @@
 ---
 title: ADev Green Connect Using the SAP HANA Node.js Interface Test Green Pop-over Fourty Five copy
 description: Create and debug a Node.js application that connects to SAP HANA using the SAP HANA client.
-auto_validation: true
 time: 15
 tags: [ tutorial>beginner, topic>node-js]
 primary_tag: topic>co-innovation-lab
@@ -347,7 +346,6 @@ Visual Studio Code can run and debug a Node.js application.  It is a lightweight
 
 Congratulations! You have created and debugged a Node.js application that connects to and queries an SAP HANA database.
 
-[VALIDATE_1]
 [ACCORDION-END]
 
 
