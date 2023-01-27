@@ -1,6 +1,7 @@
 ---
 title: ADev Green Validation form with parser v2
 description: Tutorial for checking parser v2 with validation
+validation: true
 primary_tag: topic>mobile
 tags: [topic>User-Experience, tutorial>community, software-product>Analytics, tutorial>beginner]
 time: 20
