@@ -1,7 +1,6 @@
 ---
 title: ADev Green Install the SAP HANA Client
 description: Learn about the multiple ways to install the SAP HANA client.
-auto_validation: true
 time: 10
 primary_tag: programming-tool>devops
 tags: [ tutorial>beginner, programming-tool>internationalization-and-unicode ]
@@ -162,7 +161,6 @@ Another download location is the [Software Downloads](https://support.sap.com/en
 
 Congratulations! You now have the SAP HANA client installed.
 
-[VALIDATE_1]
 [ACCORDION-END]
 
 
