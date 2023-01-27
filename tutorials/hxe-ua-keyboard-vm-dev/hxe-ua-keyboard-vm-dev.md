@@ -19,7 +19,6 @@ You'll learn how to start the VM, change the VM default keyboard layout, and cha
 ## Intro
 ADev Green Validation form with parser v2 text for the intro
 
----
 
 ### Introduction Start your VM updated
 
